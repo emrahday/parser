@@ -13,7 +13,7 @@ const url = 'https://www.gotprint.com/products/info.html';
             for(let col of columns){
                 const head = $(col).find('.head5')
                 const product = {
-                    id: col.attribs.id.replace('productInfo-',''),
+                    id: Number(col.attribs.id.replace('productInfo-','')),
                     name: head.text()
                 }
                 products.push(product);

@@ -1,262 +1,262 @@
 [
     {
-        "id": "10019",
+        "id": 10019,
         "name": "Acrylic Boards"
     },
     {
-        "id": "10004",
+        "id": 10004,
         "name": "A-Frame Signs"
     },
     {
-        "id": "10017",
+        "id": 10017,
         "name": "Aluminum Boards"
     },
     {
-        "id": "16",
+        "id": 16,
         "name": "Banners"
     },
     {
-        "id": "10024",
+        "id": 10024,
         "name": "Biz Card Magnets"
     },
     {
-        "id": "2005",
+        "id": 2005,
         "name": "Blank Envelopes"
     },
     {
-        "id": "2000",
+        "id": 2000,
         "name": "Blank Letterheads"
     },
     {
-        "id": "6",
+        "id": 6,
         "name": "Booklets"
     },
     {
-        "id": "3",
+        "id": 3,
         "name": "Bookmarks"
     },
     {
-        "id": "5",
+        "id": 5,
         "name": "Brochures"
     },
     {
-        "id": "1",
+        "id": 1,
         "name": "Business Cards"
     },
     {
-        "id": "14",
+        "id": 14,
         "name": "Calendars"
     },
     {
-        "id": "10007",
+        "id": 10007,
         "name": "Canvas Prints"
     },
     {
-        "id": "10022",
+        "id": 10022,
         "name": "Car Magnets"
     },
     {
-        "id": "10016",
+        "id": 10016,
         "name": "Cardboards"
     },
     {
-        "id": "6",
+        "id": 6,
         "name": "Catalogs"
     },
     {
-        "id": "27",
+        "id": 27,
         "name": "Club Flyers"
     },
     {
-        "id": "28",
+        "id": 28,
         "name": "Collectors Cards"
     },
     {
-        "id": "10015",
+        "id": 10015,
         "name": "Corrugated Boards"
     },
     {
-        "id": "2010",
+        "id": 2010,
         "name": "Crewneck Sweatshirts"
     },
     {
-        "id": "29",
+        "id": 29,
         "name": "Door Hangers"
     },
     {
-        "id": "9",
+        "id": 9,
         "name": "Envelopes"
     },
     {
-        "id": "22",
+        "id": 22,
         "name": "Event Tickets"
     },
     {
-        "id": "10020",
+        "id": 10020,
         "name": "Floor Decals"
     },
     {
-        "id": "4",
+        "id": 4,
         "name": "Flyers"
     },
     {
-        "id": "10013",
+        "id": 10013,
         "name": "Foam Boards"
     },
     {
-        "id": "11",
+        "id": 11,
         "name": "Folded Biz Cards"
     },
     {
-        "id": "24",
+        "id": 24,
         "name": "Folded Hang Tags"
     },
     {
-        "id": "15",
+        "id": 15,
         "name": "Folders"
     },
     {
-        "id": "10009",
+        "id": 10009,
         "name": "Framed Prints"
     },
     {
-        "id": "2011",
+        "id": 2011,
         "name": "Full Zip Hoodie Sweatshirts"
     },
     {
-        "id": "12",
+        "id": 12,
         "name": "Greeting Cards"
     },
     {
-        "id": "20",
+        "id": 20,
         "name": "Hang Tags"
     },
     {
-        "id": "10027",
+        "id": 10027,
         "name": "Hats"
     },
     {
-        "id": "2009",
+        "id": 2009,
         "name": "Hoodie Sweatshirts"
     },
     {
-        "id": "17",
+        "id": 17,
         "name": "Large Format Posters"
     },
     {
-        "id": "10",
+        "id": 10,
         "name": "Letterheads"
     },
     {
-        "id": "42",
+        "id": 42,
         "name": "Logo Envelopes"
     },
     {
-        "id": "10008",
+        "id": 10008,
         "name": "Metal Wall Prints"
     },
     {
-        "id": "31",
+        "id": 31,
         "name": "Mini Menus"
     },
     {
-        "id": "10005",
+        "id": 10005,
         "name": "Mounted Wall Prints"
     },
     {
-        "id": "10011",
+        "id": 10011,
         "name": "Mouse Pads"
     },
     {
-        "id": "10006",
+        "id": 10006,
         "name": "Mugs"
     },
     {
-        "id": "13",
+        "id": 13,
         "name": "Notepads"
     },
     {
-        "id": "23",
+        "id": 23,
         "name": "Photo Books"
     },
     {
-        "id": "10010",
+        "id": 10010,
         "name": "Photo Plaques"
     },
     {
-        "id": "10028",
+        "id": 10028,
         "name": "Polos"
     },
     {
-        "id": "2",
+        "id": 2,
         "name": "Postcards"
     },
     {
-        "id": "10025",
+        "id": 10025,
         "name": "Postcard Magnets"
     },
     {
-        "id": "8",
+        "id": 8,
         "name": "Posters"
     },
     {
-        "id": "10012",
+        "id": 10012,
         "name": "Puzzles"
     },
     {
-        "id": "10014",
+        "id": 10014,
         "name": "PVC Boards"
     },
     {
-        "id": "32",
+        "id": 32,
         "name": "Rack Cards"
     },
     {
-        "id": "10002",
+        "id": 10002,
         "name": "Retractable Banners"
     },
     {
-        "id": "35",
+        "id": 35,
         "name": "Rip Cards"
     },
     {
-        "id": "36",
+        "id": 36,
         "name": "Roll Labels"
     },
     {
-        "id": "39",
+        "id": 39,
         "name": "Special Shapes"
     },
     {
-        "id": "38",
+        "id": 38,
         "name": "Staggered Flyers"
     },
     {
-        "id": "7",
+        "id": 7,
         "name": "Stickers"
     },
     {
-        "id": "21",
+        "id": 21,
         "name": "Table Tents"
     },
     {
-        "id": "10001",
+        "id": 10001,
         "name": "T-Shirts"
     },
     {
-        "id": "18",
+        "id": 18,
         "name": "Window Clings"
     },
     {
-        "id": "19",
+        "id": 19,
         "name": "Window Decals"
     },
     {
-        "id": "41",
+        "id": 41,
         "name": "Window Perfs"
     },
     {
-        "id": "37",
+        "id": 37,
         "name": "Yard Signs"
     }
 ]
