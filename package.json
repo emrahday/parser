@@ -1,0 +1,25 @@
+{
+  "name": "parser",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/emrahday/parser.git"
+  },
+  "author": "emrah dayioglu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/emrahday/parser/issues"
+  },
+  "homepage": "https://github.com/emrahday/parser#readme",
+  "dependencies": {
+    "cheerio": "^1.0.0-rc.12",
+    "puppeteer": "^16.1.0",
+    "request": "^2.88.2",
+    "request-promise": "^4.2.6"
+  }
+}
