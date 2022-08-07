@@ -3,7 +3,6 @@ const rp = require('request-promise');
 const cheerio = require('cheerio');
 const url = 'https://www.gotprint.com/products/info.html';
 
-
 ( async () => {
     const products = [];
     await rp(url)
