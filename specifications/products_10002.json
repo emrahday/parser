@@ -1,0 +1,53 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 37,
+            "label": "13 oz. Super Smooth Grayback"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "Full Color Front, No Back"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [],
+    "sizes": {
+        "id": null,
+        "type": "select",
+        "label": "Size",
+        "list": [
+            "size_10001:8.5\" x 11.875\" Table Top&settings_iopSupported:true&settings_odSupported:true&settings_mediaClipSupported:false&settings_hasOverlay:false&settings_zeroBleed:false&properties_width:8.5&properties_height:11.875&properties_presentationWidth:8.5&properties_presentationHeight:11.875&properties_unit:in&properties_dpi:150.0",
+            "size_10002:11\" x 17.25\" Table Top&settings_iopSupported:true&settings_odSupported:true&settings_mediaClipSupported:false&settings_hasOverlay:false&settings_zeroBleed:false&properties_width:11.0&properties_height:17.25&properties_presentationWidth:11.0&properties_presentationHeight:17.25&properties_unit:in&properties_dpi:150.0",
+            "size_10003:15.75\" x 32.125\" Table Top&settings_iopSupported:true&settings_odSupported:true&settings_mediaClipSupported:false&settings_hasOverlay:false&settings_zeroBleed:false&properties_width:15.75&properties_height:32.125&properties_presentationWidth:15.75&properties_presentationHeight:32.125&properties_unit:in&properties_dpi:150.0",
+            "size_10004:23.5\" x 83\"&settings_iopSupported:true&settings_odSupported:true&settings_mediaClipSupported:false&settings_hasOverlay:false&settings_zeroBleed:false&properties_width:23.5&properties_height:83.0&properties_presentationWidth:23.5&properties_presentationHeight:83.0&properties_unit:in&properties_dpi:150.0",
+            "size_10005:33.5\" x 78.7\"&settings_iopSupported:true&settings_odSupported:true&settings_mediaClipSupported:false&settings_hasOverlay:false&settings_zeroBleed:false&properties_width:33.5&properties_height:78.7&properties_presentationWidth:33.5&properties_presentationHeight:78.7&properties_unit:in&properties_dpi:150.0",
+            "size_10006:47\" x 80\"&settings_iopSupported:true&settings_odSupported:true&settings_mediaClipSupported:false&settings_hasOverlay:false&settings_zeroBleed:false&properties_width:47.0&properties_height:80.0&properties_presentationWidth:47.0&properties_presentationHeight:80.0&properties_unit:in&properties_dpi:150.0",
+            "size_10007:47\" x 83.75\"&settings_iopSupported:true&settings_odSupported:true&settings_mediaClipSupported:false&settings_hasOverlay:false&settings_zeroBleed:false&properties_width:47.0&properties_height:83.75&properties_presentationWidth:47.0&properties_presentationHeight:83.75&properties_unit:in&properties_dpi:150.0"
+        ],
+        "orientation": false
+    },
+    "pockets": [],
+    "shapes": [],
+    "finishes": [],
+    "foldings": [],
+    "coverPapers": []
+}

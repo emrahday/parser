@@ -1,0 +1,562 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 3,
+            "label": "100 lb. Gloss Book"
+        },
+        {
+            "id": 4,
+            "label": "100 lb. Gloss Cover"
+        },
+        {
+            "id": 7,
+            "label": "100 lb. Recycled Matte Cover"
+        },
+        {
+            "id": 8,
+            "label": "70 lb. Opaque Smooth White"
+        },
+        {
+            "id": 5,
+            "label": "80 lb. Gloss Book"
+        },
+        {
+            "id": 6,
+            "label": "80 lb. Recycled Matte Text"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 3,
+            "label": "Full Color Both Sides"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [],
+    "sizes": [
+        {
+            "id": 125,
+            "label": "6\" x 9\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 9,
+                "height": 6,
+                "presentationWidth": 9,
+                "presentationHeight": 6,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 721,
+            "label": "7\" x 14\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 14,
+                "height": 7,
+                "presentationWidth": 14,
+                "presentationHeight": 7,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 127,
+            "label": "8.5\" x 11\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 11,
+                "height": 8.5,
+                "presentationWidth": 11,
+                "presentationHeight": 8.5,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 132,
+            "label": "8.5\" x 14\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 14,
+                "height": 8.5,
+                "presentationWidth": 14,
+                "presentationHeight": 8.5,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 172,
+            "label": "9\" x 12\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 12,
+                "height": 9,
+                "presentationWidth": 12,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 460,
+            "label": "9\" x 16\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 16,
+                "height": 9,
+                "presentationWidth": 16,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 131,
+            "label": "11\" x 17\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 17,
+                "height": 11,
+                "presentationWidth": 17,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 170,
+            "label": "11\" x 25.5\" (6 Page Brochure)",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 25.375,
+                "height": 11,
+                "presentationWidth": 25.375,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 146,
+            "label": "12\" x 18\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 18,
+                "height": 12,
+                "presentationWidth": 18,
+                "presentationHeight": 12,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        }
+    ],
+    "pockets": [],
+    "shapes": [],
+    "finishes": [],
+    "foldings": [
+        {
+            "id": 1,
+            "label": "Half Fold to 4.5\" x 6\"",
+            "sizeId": 125
+        },
+        {
+            "id": 3,
+            "label": "Tri-Fold",
+            "sizeId": 125
+        },
+        {
+            "id": 1,
+            "label": "Half Fold to 5.5\" x 8.5\"",
+            "sizeId": 127
+        },
+        {
+            "id": 3,
+            "label": "Tri-Fold",
+            "sizeId": 127
+        },
+        {
+            "id": 2,
+            "label": "Z-Fold",
+            "sizeId": 127
+        },
+        {
+            "id": 13,
+            "label": "Half Fold to 4.25\" x 11\"",
+            "sizeId": 127
+        },
+        {
+            "id": 1,
+            "label": "Half Fold to 8.5\" x 11\"",
+            "sizeId": 131
+        },
+        {
+            "id": 3,
+            "label": "Tri-Fold",
+            "sizeId": 131
+        },
+        {
+            "id": 2,
+            "label": "Z-Fold",
+            "sizeId": 131
+        },
+        {
+            "id": 6,
+            "label": "Closed Gate Fold",
+            "sizeId": 131
+        },
+        {
+            "id": 4,
+            "label": "Double Parallel Fold",
+            "sizeId": 131
+        },
+        {
+            "id": 5,
+            "label": "Open Gate Fold",
+            "sizeId": 131
+        },
+        {
+            "id": 9,
+            "label": "Roll Fold (4 panel)",
+            "sizeId": 131
+        },
+        {
+            "id": 11,
+            "label": "Half Then Half Fold To 5.5x8.5",
+            "sizeId": 131
+        },
+        {
+            "id": 12,
+            "label": "Half Fold then Trifold",
+            "sizeId": 131
+        },
+        {
+            "id": 14,
+            "label": "Double Parallel Reverse Fold",
+            "sizeId": 131
+        },
+        {
+            "id": 7,
+            "label": "Accordion Fold (4 panel)",
+            "sizeId": 131
+        },
+        {
+            "id": 1,
+            "label": "Half Fold to 7\" x 8.5\"",
+            "sizeId": 132
+        },
+        {
+            "id": 3,
+            "label": "Tri-Fold",
+            "sizeId": 132
+        },
+        {
+            "id": 2,
+            "label": "Z-Fold",
+            "sizeId": 132
+        },
+        {
+            "id": 6,
+            "label": "Closed Gate Fold",
+            "sizeId": 132
+        },
+        {
+            "id": 4,
+            "label": "Double Parallel Fold",
+            "sizeId": 132
+        },
+        {
+            "id": 5,
+            "label": "Open Gate Fold",
+            "sizeId": 132
+        },
+        {
+            "id": 9,
+            "label": "Roll Fold (4 panel)",
+            "sizeId": 132
+        },
+        {
+            "id": 14,
+            "label": "Double Parallel Reverse Fold",
+            "sizeId": 132
+        },
+        {
+            "id": 7,
+            "label": "Accordion Fold (4 panel)",
+            "sizeId": 132
+        },
+        {
+            "id": 1,
+            "label": "Half Fold to 9\" x 12\"",
+            "sizeId": 146
+        },
+        {
+            "id": 3,
+            "label": "Tri-Fold",
+            "sizeId": 146
+        },
+        {
+            "id": 2,
+            "label": "Z-Fold",
+            "sizeId": 146
+        },
+        {
+            "id": 6,
+            "label": "Closed Gate Fold",
+            "sizeId": 146
+        },
+        {
+            "id": 4,
+            "label": "Double Parallel Fold",
+            "sizeId": 146
+        },
+        {
+            "id": 5,
+            "label": "Open Gate Fold",
+            "sizeId": 146
+        },
+        {
+            "id": 9,
+            "label": "Roll Fold (4 panel)",
+            "sizeId": 146
+        },
+        {
+            "id": 11,
+            "label": "Half Fold Then Half Fold 6x9",
+            "sizeId": 146
+        },
+        {
+            "id": 12,
+            "label": "Half Fold then Trifold",
+            "sizeId": 146
+        },
+        {
+            "id": 14,
+            "label": "Double Parallel Reverse Fold",
+            "sizeId": 146
+        },
+        {
+            "id": 7,
+            "label": "Accordion Fold (4 panel)",
+            "sizeId": 146
+        },
+        {
+            "id": 3,
+            "label": "Tri-Fold To 11\" x 8.5\" (6 pages)",
+            "sizeId": 170
+        },
+        {
+            "id": 1,
+            "label": "Half Fold to 6\" x 9\"",
+            "sizeId": 172
+        },
+        {
+            "id": 3,
+            "label": "Tri-Fold",
+            "sizeId": 172
+        },
+        {
+            "id": 2,
+            "label": "Z-Fold",
+            "sizeId": 172
+        },
+        {
+            "id": 9,
+            "label": "Roll Fold (4 panel)",
+            "sizeId": 172
+        },
+        {
+            "id": 7,
+            "label": "Accordion Fold (4 panel)",
+            "sizeId": 172
+        },
+        {
+            "id": 13,
+            "label": "Half Fold to 4.5\" x 12\"",
+            "sizeId": 172
+        },
+        {
+            "id": 7,
+            "label": "Accordion Fold (4 panel)",
+            "sizeId": 460
+        },
+        {
+            "id": 6,
+            "label": "Closed Gate Fold",
+            "sizeId": 460
+        },
+        {
+            "id": 1,
+            "label": "Half Fold to 8\" x 9\"",
+            "sizeId": 460
+        },
+        {
+            "id": 4,
+            "label": "Double Parallel Fold",
+            "sizeId": 460
+        },
+        {
+            "id": 9,
+            "label": "Roll Fold (4 panel)",
+            "sizeId": 460
+        },
+        {
+            "id": 5,
+            "label": "Open Gate Fold",
+            "sizeId": 460
+        },
+        {
+            "id": 3,
+            "label": "Tri-Fold",
+            "sizeId": 460
+        },
+        {
+            "id": 2,
+            "label": "Z-Fold",
+            "sizeId": 460
+        },
+        {
+            "id": 14,
+            "label": "Double Parallel Reverse Fold",
+            "sizeId": 460
+        },
+        {
+            "id": 1,
+            "label": "Half Fold to 7\" x 7\"",
+            "sizeId": 721
+        },
+        {
+            "id": 3,
+            "label": "Tri-Fold",
+            "sizeId": 721
+        },
+        {
+            "id": 2,
+            "label": "Z-Fold",
+            "sizeId": 721
+        },
+        {
+            "id": 13,
+            "label": "Half Fold to 3.5\" x 14\"",
+            "sizeId": 721
+        }
+    ],
+    "coverPapers": []
+}

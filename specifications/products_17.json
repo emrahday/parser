@@ -1,0 +1,1104 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 16,
+            "label": "9 mil Photobase Glossy"
+        },
+        {
+            "id": 17,
+            "label": "9 mil Photobase Matte"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        },
+        {
+            "id": 3,
+            "label": "Rush"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "Full Color Front, No Back"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [],
+    "sizes": [
+        {
+            "id": 763,
+            "label": "8\" x 10\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 10,
+                "height": 8,
+                "presentationWidth": 10,
+                "presentationHeight": 8,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 497,
+            "label": "11\" x 17\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 17,
+                "height": 11,
+                "presentationWidth": 17,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 764,
+            "label": "12\" x 12\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 12,
+                "height": 12,
+                "presentationWidth": 12,
+                "presentationHeight": 12,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 366,
+            "label": "12\" x 18\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 18,
+                "height": 12,
+                "presentationWidth": 18,
+                "presentationHeight": 12,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 368,
+            "label": "16\" x 20\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 20,
+                "height": 16,
+                "presentationWidth": 20,
+                "presentationHeight": 16,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 302,
+            "label": "18\" x 24\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 18,
+                "height": 24,
+                "presentationWidth": 18,
+                "presentationHeight": 24,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 766,
+            "label": "20\" x 24\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 24,
+                "height": 20,
+                "presentationWidth": 24,
+                "presentationHeight": 20,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 304,
+            "label": "20\" x 30\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 20,
+                "height": 30,
+                "presentationWidth": 20,
+                "presentationHeight": 30,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 310,
+            "label": "22\" x 28\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 22,
+                "height": 28,
+                "presentationWidth": 22,
+                "presentationHeight": 28,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 505,
+            "label": "22\" x 53\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 53,
+                "height": 22,
+                "presentationWidth": 53,
+                "presentationHeight": 22,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 503,
+            "label": "24\" x 32\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 32,
+                "height": 24,
+                "presentationWidth": 32,
+                "presentationHeight": 24,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 312,
+            "label": "24\" x 36\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 24,
+                "height": 36,
+                "presentationWidth": 24,
+                "presentationHeight": 36,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 499,
+            "label": "24\" x 48\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 48,
+                "height": 24,
+                "presentationWidth": 48,
+                "presentationHeight": 24,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 501,
+            "label": "26\" x 28\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 28,
+                "height": 26,
+                "presentationWidth": 28,
+                "presentationHeight": 26,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 507,
+            "label": "27\" x 40\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 40,
+                "height": 27,
+                "presentationWidth": 40,
+                "presentationHeight": 27,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 513,
+            "label": "30\" x 30\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 30,
+                "height": 30,
+                "presentationWidth": 30,
+                "presentationHeight": 30,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 306,
+            "label": "30\" x 40\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 30,
+                "height": 40,
+                "presentationWidth": 30,
+                "presentationHeight": 40,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 509,
+            "label": "30\" x 43\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 43,
+                "height": 30,
+                "presentationWidth": 43,
+                "presentationHeight": 30,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 370,
+            "label": "32\" x 48\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 48,
+                "height": 32,
+                "presentationWidth": 48,
+                "presentationHeight": 32,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 768,
+            "label": "36\" x 40\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 40,
+                "height": 36,
+                "presentationWidth": 40,
+                "presentationHeight": 36,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 372,
+            "label": "36\" x 48\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 48,
+                "height": 36,
+                "presentationWidth": 48,
+                "presentationHeight": 36,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 511,
+            "label": "40\" x 50\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 50,
+                "height": 40,
+                "presentationWidth": 50,
+                "presentationHeight": 40,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 308,
+            "label": "40\" x 60\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 40,
+                "height": 60,
+                "presentationWidth": 40,
+                "presentationHeight": 60,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 498,
+            "label": "11\" x 17\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 11,
+                "height": 17,
+                "presentationWidth": 11,
+                "presentationHeight": 17,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 367,
+            "label": "12\" x 18\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 12,
+                "height": 18,
+                "presentationWidth": 12,
+                "presentationHeight": 18,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 369,
+            "label": "16\" x 20\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 16,
+                "height": 20,
+                "presentationWidth": 16,
+                "presentationHeight": 20,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 303,
+            "label": "18\" x 24\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 24,
+                "height": 18,
+                "presentationWidth": 24,
+                "presentationHeight": 18,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 765,
+            "label": "20\" x 24\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 20,
+                "height": 24,
+                "presentationWidth": 20,
+                "presentationHeight": 24,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 305,
+            "label": "20\" x 30\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 30,
+                "height": 20,
+                "presentationWidth": 30,
+                "presentationHeight": 20,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 311,
+            "label": "22\" x 28\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 28,
+                "height": 22,
+                "presentationWidth": 28,
+                "presentationHeight": 22,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 506,
+            "label": "22\" x 53\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 22,
+                "height": 53,
+                "presentationWidth": 22,
+                "presentationHeight": 53,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 504,
+            "label": "24\" x 32\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 24,
+                "height": 32,
+                "presentationWidth": 24,
+                "presentationHeight": 32,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 313,
+            "label": "24\" x 36\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 36,
+                "height": 24,
+                "presentationWidth": 36,
+                "presentationHeight": 24,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 500,
+            "label": "24\" x 48\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 24,
+                "height": 48,
+                "presentationWidth": 24,
+                "presentationHeight": 48,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 502,
+            "label": "26\" x 28\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 26,
+                "height": 28,
+                "presentationWidth": 26,
+                "presentationHeight": 28,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 508,
+            "label": "27\" x 40\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 27,
+                "height": 40,
+                "presentationWidth": 27,
+                "presentationHeight": 40,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 307,
+            "label": "30\" x 40\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 40,
+                "height": 30,
+                "presentationWidth": 40,
+                "presentationHeight": 30,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 510,
+            "label": "30\" x 43\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 30,
+                "height": 43,
+                "presentationWidth": 30,
+                "presentationHeight": 43,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 371,
+            "label": "32\" x 48\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 32,
+                "height": 48,
+                "presentationWidth": 32,
+                "presentationHeight": 48,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 767,
+            "label": "36\" x 40\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 36,
+                "height": 40,
+                "presentationWidth": 36,
+                "presentationHeight": 40,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 373,
+            "label": "36\" x 48\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 36,
+                "height": 48,
+                "presentationWidth": 36,
+                "presentationHeight": 48,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 512,
+            "label": "40\" x 50\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 40,
+                "height": 50,
+                "presentationWidth": 40,
+                "presentationHeight": 50,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 309,
+            "label": "40\" x 60\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 60,
+                "height": 40,
+                "presentationWidth": 60,
+                "presentationHeight": 40,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 762,
+            "label": "8\" x 10\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 8,
+                "height": 10,
+                "presentationWidth": 8,
+                "presentationHeight": 10,
+                "unit": "in",
+                "dpi": 150
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        }
+    ],
+    "pockets": [],
+    "shapes": [],
+    "finishes": [],
+    "foldings": [],
+    "coverPapers": []
+}

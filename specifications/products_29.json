@@ -1,0 +1,164 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 3,
+            "label": "100 lb. Gloss Book"
+        },
+        {
+            "id": 4,
+            "label": "100 lb. Gloss Cover"
+        },
+        {
+            "id": 7,
+            "label": "100 lb. Recycled Matte Cover"
+        },
+        {
+            "id": 1,
+            "label": "14 pt. Gloss"
+        },
+        {
+            "id": 2,
+            "label": "14 pt. Uncoated"
+        },
+        {
+            "id": 10,
+            "label": "16 pt. Premium Matte"
+        },
+        {
+            "id": 6,
+            "label": "80 lb. Recycled Matte Text"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "Full Color Front, No Back"
+        },
+        {
+            "id": 3,
+            "label": "Full Color Both Sides"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [],
+    "sizes": [
+        {
+            "id": 292,
+            "label": "3.5\" x 8.5\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 3.5,
+                "height": 8.5,
+                "presentationWidth": 3.5,
+                "presentationHeight": 8.5,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 380,
+            "label": "3.5\" x 11\" Vertical Rip BC + Door Hanger",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 3.5,
+                "height": 11,
+                "presentationWidth": 3.5,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 341,
+            "label": "4.25\" x 11\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 4.25,
+                "height": 11,
+                "presentationWidth": 4.25,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 342,
+            "label": "5.5\" x 17\" Jumbo",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 5.5,
+                "height": 17,
+                "presentationWidth": 5.5,
+                "presentationHeight": 17,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        }
+    ],
+    "pockets": [],
+    "shapes": [],
+    "finishes": [],
+    "foldings": [],
+    "coverPapers": []
+}

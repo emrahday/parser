@@ -1,0 +1,272 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 30,
+            "label": "Other"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "Full Color Front, No Back"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": true,
+            "odSupported": false,
+            "mediaClipSupported": true,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10260,
+            "iopSupported": true,
+            "odSupported": false,
+            "mediaClipSupported": true,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10261,
+            "iopSupported": true,
+            "odSupported": false,
+            "mediaClipSupported": true,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10263,
+            "iopSupported": true,
+            "odSupported": false,
+            "mediaClipSupported": true,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [],
+    "sizes": {
+        "id": null,
+        "type": "radio",
+        "label": "Size",
+        "sizeCategory": {
+            "16oz": {
+                "10266": {
+                    "id": null,
+                    "label": "16oz White",
+                    "alternativeSizeId": null,
+                    "width": 7.067,
+                    "height": 6.753,
+                    "shapeLabel": null,
+                    "shapeId": null,
+                    "type": "1",
+                    "color": "1",
+                    "otherShapes": null,
+                    "settings": {
+                        "sizeId": null,
+                        "iopSupported": true,
+                        "odSupported": false,
+                        "mediaClipSupported": true,
+                        "hasOverlay": null,
+                        "zeroBleed": null
+                    },
+                    "properties": {
+                        "width": 7.067,
+                        "height": 6.753,
+                        "presentationWidth": 7.067,
+                        "presentationHeight": 6.753,
+                        "unit": "in",
+                        "dpi": 350
+                    }
+                }
+            },
+            "15oz": {
+                "10263": {
+                    "id": null,
+                    "label": "15oz Black",
+                    "alternativeSizeId": null,
+                    "width": 8.58,
+                    "height": 4,
+                    "shapeLabel": null,
+                    "shapeId": null,
+                    "type": "1",
+                    "color": "2",
+                    "otherShapes": null,
+                    "settings": {
+                        "sizeId": null,
+                        "iopSupported": true,
+                        "odSupported": false,
+                        "mediaClipSupported": true,
+                        "hasOverlay": null,
+                        "zeroBleed": null
+                    },
+                    "properties": {
+                        "width": 8.58,
+                        "height": 4,
+                        "presentationWidth": 8.58,
+                        "presentationHeight": 4,
+                        "unit": "in",
+                        "dpi": 350
+                    }
+                },
+                "10264": {
+                    "id": null,
+                    "label": "15oz",
+                    "alternativeSizeId": null,
+                    "width": 8.58,
+                    "height": 4,
+                    "shapeLabel": null,
+                    "shapeId": null,
+                    "type": "1",
+                    "color": "3",
+                    "otherShapes": null,
+                    "settings": {
+                        "sizeId": null,
+                        "iopSupported": true,
+                        "odSupported": false,
+                        "mediaClipSupported": true,
+                        "hasOverlay": null,
+                        "zeroBleed": null
+                    },
+                    "properties": {
+                        "width": 8.58,
+                        "height": 4,
+                        "presentationWidth": 8.58,
+                        "presentationHeight": 4,
+                        "unit": "in",
+                        "dpi": 350
+                    }
+                },
+                "10265": {
+                    "id": null,
+                    "label": "15oz White",
+                    "alternativeSizeId": null,
+                    "width": 8.58,
+                    "height": 4,
+                    "shapeLabel": null,
+                    "shapeId": null,
+                    "type": "1",
+                    "color": "1",
+                    "otherShapes": null,
+                    "settings": {
+                        "sizeId": null,
+                        "iopSupported": true,
+                        "odSupported": false,
+                        "mediaClipSupported": true,
+                        "hasOverlay": null,
+                        "zeroBleed": null
+                    },
+                    "properties": {
+                        "width": 8.58,
+                        "height": 4,
+                        "presentationWidth": 8.58,
+                        "presentationHeight": 4,
+                        "unit": "in",
+                        "dpi": 350
+                    }
+                }
+            },
+            "11oz": {
+                "10260": {
+                    "id": null,
+                    "label": "11oz Black",
+                    "alternativeSizeId": null,
+                    "width": 7.42,
+                    "height": 3.49,
+                    "shapeLabel": null,
+                    "shapeId": null,
+                    "type": "1",
+                    "color": "2",
+                    "otherShapes": null,
+                    "settings": {
+                        "sizeId": null,
+                        "iopSupported": true,
+                        "odSupported": false,
+                        "mediaClipSupported": true,
+                        "hasOverlay": null,
+                        "zeroBleed": null
+                    },
+                    "properties": {
+                        "width": 7.42,
+                        "height": 3.49,
+                        "presentationWidth": 7.42,
+                        "presentationHeight": 3.49,
+                        "unit": "in",
+                        "dpi": 350
+                    }
+                },
+                "10261": {
+                    "id": null,
+                    "label": "11oz Heat Activated",
+                    "alternativeSizeId": null,
+                    "width": 7.42,
+                    "height": 3.49,
+                    "shapeLabel": null,
+                    "shapeId": null,
+                    "type": "2",
+                    "color": "2",
+                    "otherShapes": null,
+                    "settings": {
+                        "sizeId": null,
+                        "iopSupported": true,
+                        "odSupported": false,
+                        "mediaClipSupported": true,
+                        "hasOverlay": null,
+                        "zeroBleed": null
+                    },
+                    "properties": {
+                        "width": 7.42,
+                        "height": 3.49,
+                        "presentationWidth": 7.42,
+                        "presentationHeight": 3.49,
+                        "unit": "in",
+                        "dpi": 350
+                    }
+                },
+                "10262": {
+                    "id": null,
+                    "label": "11oz",
+                    "alternativeSizeId": null,
+                    "width": 7.42,
+                    "height": 3.49,
+                    "shapeLabel": null,
+                    "shapeId": null,
+                    "type": "1",
+                    "color": "1",
+                    "otherShapes": null,
+                    "settings": {
+                        "sizeId": null,
+                        "iopSupported": true,
+                        "odSupported": false,
+                        "mediaClipSupported": true,
+                        "hasOverlay": null,
+                        "zeroBleed": null
+                    },
+                    "properties": {
+                        "width": 7.42,
+                        "height": 3.49,
+                        "presentationWidth": 7.42,
+                        "presentationHeight": 3.49,
+                        "unit": "in",
+                        "dpi": 350
+                    }
+                }
+            }
+        },
+        "orientation": false
+    },
+    "pockets": [],
+    "shapes": [],
+    "finishes": [],
+    "foldings": [],
+    "coverPapers": []
+}

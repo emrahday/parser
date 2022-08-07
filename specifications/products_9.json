@@ -1,0 +1,524 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 8,
+            "label": "70 lb. Opaque Smooth White"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "Full Color Front (Outside Only)"
+        },
+        {
+            "id": 3,
+            "label": "Full Color Both Sides (Outside and Inside)"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [],
+    "sizes": [
+        {
+            "id": 398,
+            "label": "A-1 (3.625\" x 5.125\") Invitation",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 7.17,
+                "height": 8.51,
+                "presentationWidth": 5.125,
+                "presentationHeight": 3.625,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 181,
+            "label": "A-2 (4.375\" x 5.75\") Announcement",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 7.79,
+                "height": 9.99,
+                "presentationWidth": 5.75,
+                "presentationHeight": 4.375,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 720,
+            "label": "3.625\" x 6.5\" Remittance - Long Flap",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 8.1231,
+                "height": 10.75,
+                "presentationWidth": 6.5,
+                "presentationHeight": 3.625,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 719,
+            "label": "3.625\" x 6.5\" Remittance - Short Flap",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 8.418,
+                "height": 8.25,
+                "presentationWidth": 6.5,
+                "presentationHeight": 3.625,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 718,
+            "label": "A-4 (4.25\" x 6.25\") Invitation",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 8.4807,
+                "height": 10.1225,
+                "presentationWidth": 6.25,
+                "presentationHeight": 4.25,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 400,
+            "label": "A-6 (4.75\" x 6.5\") Announcement",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 8.75,
+                "height": 10.55,
+                "presentationWidth": 6.5,
+                "presentationHeight": 4.75,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 183,
+            "label": "#9 (3.875\" x 8.875\") Commercial",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 15.16,
+                "height": 8.97,
+                "presentationWidth": 8.875,
+                "presentationHeight": 3.875,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 496,
+            "label": "#9 (3.875\" x 8.875\") Commercial with Window",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 15.16,
+                "height": 8.97,
+                "presentationWidth": 8.875,
+                "presentationHeight": 3.875,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 182,
+            "label": "#10 (4.125\" x 9.5\") Standard",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 16.04,
+                "height": 9.19,
+                "presentationWidth": 9.5,
+                "presentationHeight": 4.125,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 495,
+            "label": "#10 (4.125\" x 9.5\") Standard with Window",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 16.04,
+                "height": 9.19,
+                "presentationWidth": 9.5,
+                "presentationHeight": 4.125,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 179,
+            "label": "A-7 (5.25\" x 7.25\") Announcement",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 9.26,
+                "height": 11.52,
+                "presentationWidth": 7.25,
+                "presentationHeight": 5.25,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 399,
+            "label": "#10 (4.125\" x 9.5\") Universal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 11.5,
+                "height": 9.36,
+                "presentationWidth": 9.5,
+                "presentationHeight": 4.125,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 176,
+            "label": "6\" x 9\" Horizontal Booklet",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 11.05,
+                "height": 13.08,
+                "presentationWidth": 9,
+                "presentationHeight": 6,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 402,
+            "label": "6.5\" x 9.5\" Horizontal Booklet",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 11.72,
+                "height": 14.52,
+                "presentationWidth": 9.5,
+                "presentationHeight": 6.5,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 175,
+            "label": "6\" x 9\" Vertical Catalog",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 13,
+                "height": 12.02,
+                "presentationWidth": 6,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 401,
+            "label": "6.5\" x 9.5\" Vertical Catalog",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 13.62,
+                "height": 12.27,
+                "presentationWidth": 6.5,
+                "presentationHeight": 9.5,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 178,
+            "label": "9\" x 12\" Horizontal Booklet",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 13.97,
+                "height": 19.05,
+                "presentationWidth": 12,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 177,
+            "label": "9\" x 12\" Vertical Catalog",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 18.88,
+                "height": 15.25,
+                "presentationWidth": 9,
+                "presentationHeight": 12,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 174,
+            "label": "10\" x 13\" Horizontal Booklet",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 15.25,
+                "height": 21.25,
+                "presentationWidth": 13,
+                "presentationHeight": 10,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 173,
+            "label": "10\" x 13\" Vertical Catalog",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 20.82,
+                "height": 16.38,
+                "presentationWidth": 10,
+                "presentationHeight": 13,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        }
+    ],
+    "pockets": [],
+    "shapes": [],
+    "finishes": [],
+    "foldings": [],
+    "coverPapers": []
+}

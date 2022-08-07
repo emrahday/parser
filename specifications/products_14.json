@@ -1,0 +1,198 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 3,
+            "label": "100 lb. Gloss Book"
+        },
+        {
+            "id": 8,
+            "label": "70 lb. Opaque Smooth White"
+        },
+        {
+            "id": 5,
+            "label": "80 lb. Gloss Book"
+        },
+        {
+            "id": 6,
+            "label": "80 lb. Recycled Matte Text"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 3,
+            "label": "Full Color Both Sides"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": false,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [
+        {
+            "id": 12,
+            "label": "12 pages (4 cover, 8 inside)"
+        },
+        {
+            "id": 16,
+            "label": "16 pages (4 cover, 12 inside)"
+        },
+        {
+            "id": 20,
+            "label": "20 pages (4 cover, 16 inside)"
+        },
+        {
+            "id": 24,
+            "label": "24 pages (4 cover, 20 inside)"
+        },
+        {
+            "id": 28,
+            "label": "28 pages (4 cover, 24 inside)"
+        },
+        {
+            "id": 32,
+            "label": "32 pages (4 cover, 28 inside)"
+        }
+    ],
+    "sizes": [
+        {
+            "id": 189,
+            "label": "6\" x 9.5\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 6,
+                "height": 9.5,
+                "presentationWidth": 6,
+                "presentationHeight": 9.5,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 126,
+            "label": "8.5\" x 11\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 8.5,
+                "height": 11,
+                "presentationWidth": 8.5,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 191,
+            "label": "9.5\" x 12\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 9.5,
+                "height": 12,
+                "presentationWidth": 9.5,
+                "presentationHeight": 12,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 188,
+            "label": "12\" x 12\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 12,
+                "height": 12,
+                "presentationWidth": 12,
+                "presentationHeight": 12,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        }
+    ],
+    "pockets": [],
+    "shapes": [],
+    "finishes": [],
+    "foldings": [],
+    "coverPapers": [
+        {
+            "id": 4,
+            "label": "100 lb. Gloss Cover"
+        },
+        {
+            "id": 8,
+            "label": "100 lb. Recycled Matte Cover"
+        },
+        {
+            "id": 2,
+            "label": "14 pt. Gloss Cover (UV Coating All Sides)"
+        },
+        {
+            "id": 3,
+            "label": "14 pt. Gloss Cover (UV Coating Front & Back Cover)"
+        },
+        {
+            "id": 11,
+            "label": "14 pt. Uncoated Cover"
+        },
+        {
+            "id": 1,
+            "label": "Self Cover"
+        }
+    ]
+}

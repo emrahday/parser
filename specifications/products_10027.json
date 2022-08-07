@@ -1,0 +1,52 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 69,
+            "label": "Hats"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "Full Color Front, No Back"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [],
+    "sizes": {
+        "id": null,
+        "type": "select",
+        "label": "Size",
+        "list": [
+            "size_10613:2.25\" x 4.5\"&settings_iopSupported:true&settings_odSupported:true&settings_mediaClipSupported:false&settings_hasOverlay:false&settings_zeroBleed:true&properties_width:4.5&properties_height:2.25&properties_presentationWidth:4.5&properties_presentationHeight:2.25&properties_unit:in&properties_dpi:150.0"
+        ],
+        "orientation": false
+    },
+    "pockets": [],
+    "shapes": [
+        {
+            "id": 15,
+            "label": "Rectangle"
+        }
+    ],
+    "finishes": [],
+    "foldings": [],
+    "coverPapers": []
+}

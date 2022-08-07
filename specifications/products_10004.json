@@ -1,0 +1,51 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 38,
+            "label": "3 mil Adhesive Vinyl"
+        },
+        {
+            "id": 34,
+            "label": "4mm Corrugated Plastic with Semi-Gloss Surface"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "Full Color Front, No Back"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [],
+    "sizes": {
+        "id": null,
+        "type": "select",
+        "label": "Size",
+        "list": [
+            "size_10008:24\" x 36\"&settings_iopSupported:true&settings_odSupported:true&settings_mediaClipSupported:false&settings_hasOverlay:false&settings_zeroBleed:false&properties_width:24.0&properties_height:36.0&properties_presentationWidth:24.0&properties_presentationHeight:36.0&properties_unit:in&properties_dpi:150.0"
+        ],
+        "orientation": false
+    },
+    "pockets": [],
+    "shapes": [],
+    "finishes": [],
+    "foldings": [],
+    "coverPapers": []
+}

@@ -1,0 +1,227 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 4,
+            "label": "100 lb. Gloss Cover"
+        },
+        {
+            "id": 7,
+            "label": "100 lb. Recycled Matte Cover"
+        },
+        {
+            "id": 1,
+            "label": "14 pt. Gloss"
+        },
+        {
+            "id": 2,
+            "label": "14 pt. Uncoated"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "Full Color Front (Outside), No Back (Inside)"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [],
+    "sizes": [
+        {
+            "id": 298,
+            "label": "4\" x 8\" Pre-Scored to Fold to 4\" x 4\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 4,
+                "height": 13,
+                "presentationWidth": 4,
+                "presentationHeight": 8,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 295,
+            "label": "4\" x 12\" Pre-Scored to Fold to 4\" x 6\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 4,
+                "height": 18,
+                "presentationWidth": 4,
+                "presentationHeight": 12,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 296,
+            "label": "4\" x 13\" Pre-Scored to Fold to 4\" x 6.5\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 4,
+                "height": 19,
+                "presentationWidth": 4,
+                "presentationHeight": 13,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 297,
+            "label": "4\" x 16\" Pre-Scored to Fold to 4\" x 8\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 4,
+                "height": 22,
+                "presentationWidth": 4,
+                "presentationHeight": 16,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 294,
+            "label": "4.25\" x 12\" Pre-Scored to Fold to 4.25\" x 6\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 4.25,
+                "height": 18,
+                "presentationWidth": 4.25,
+                "presentationHeight": 12,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 299,
+            "label": "5\" x 11\" Pre-Scored to Fold to 5\" x 5.5\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 5,
+                "height": 16,
+                "presentationWidth": 5,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        }
+    ],
+    "pockets": [],
+    "shapes": [],
+    "finishes": [],
+    "foldings": [
+        {
+            "id": 13,
+            "label": "Half Fold Vertical",
+            "sizeId": 294
+        },
+        {
+            "id": 13,
+            "label": "Half Fold Vertical",
+            "sizeId": 295
+        },
+        {
+            "id": 13,
+            "label": "Half Fold Vertical",
+            "sizeId": 296
+        },
+        {
+            "id": 13,
+            "label": "Half Fold Vertical",
+            "sizeId": 297
+        },
+        {
+            "id": 13,
+            "label": "Half Fold Vertical",
+            "sizeId": 298
+        },
+        {
+            "id": 13,
+            "label": "Half Fold Vertical",
+            "sizeId": 299
+        }
+    ],
+    "coverPapers": []
+}

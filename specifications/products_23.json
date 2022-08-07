@@ -1,0 +1,22 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [],
+    "turnarounds": [],
+    "colors": [],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false
+        }
+    ],
+    "pages": [],
+    "sizes": [],
+    "pockets": [],
+    "shapes": [],
+    "finishes": [],
+    "foldings": [],
+    "coverPapers": []
+}

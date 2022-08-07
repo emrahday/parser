@@ -1,0 +1,187 @@
+{
+    "sweatShirtPrintType": [
+        {
+            "id": "2",
+            "label": "Embroidery"
+        },
+        {
+            "id": "1",
+            "label": "Direct To Garment Printing"
+        },
+        {
+            "100000579": {
+                "sweatShirtPrintType": "1",
+                "size": "854",
+                "sweatShirtType": "2",
+                "printColor": "1"
+            },
+            "100000580": {
+                "sweatShirtPrintType": "2",
+                "sweatShirtEmbroideryPlacement": "1",
+                "size": "859",
+                "sweatShirtType": "2",
+                "printColor": "1"
+            },
+            "100000581": {
+                "sweatShirtPrintType": "2",
+                "sweatShirtEmbroideryPlacement": "2",
+                "size": "859",
+                "sweatShirtType": "2",
+                "printColor": "1"
+            },
+            "100000582": {
+                "sweatShirtPrintType": "1",
+                "size": "854",
+                "sweatShirtType": "2",
+                "printColor": "2"
+            },
+            "100000583": {
+                "sweatShirtPrintType": "2",
+                "sweatShirtEmbroideryPlacement": "1",
+                "size": "859",
+                "sweatShirtType": "2",
+                "printColor": "2"
+            },
+            "100000584": {
+                "sweatShirtPrintType": "2",
+                "sweatShirtEmbroideryPlacement": "2",
+                "size": "859",
+                "sweatShirtType": "2",
+                "printColor": "2"
+            }
+        }
+    ],
+    "panels": [],
+    "sweatShirtType": [
+        {
+            "id": "2",
+            "label": "Crewneck"
+        }
+    ],
+    "trays": [],
+    "printColor": [
+        {
+            "id": "1",
+            "label": "White"
+        },
+        {
+            "id": "2",
+            "label": "Black"
+        }
+    ],
+    "papers": [
+        {
+            "id": 78,
+            "label": "50/50 Cotton/Polyester Blend"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "Full Color Front, No Back"
+        },
+        {
+            "id": 3,
+            "label": "Full Color Both Sides"
+        },
+        {
+            "id": 5,
+            "label": "Full Color Back, No Front"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 854,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false
+        },
+        {
+            "sizeId": 859,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false
+        }
+    ],
+    "sweatShirtEmbroideryPlacement": [
+        {
+            "id": "2",
+            "label": "Left Chest"
+        },
+        {
+            "id": "1",
+            "label": "Right Chest"
+        }
+    ],
+    "subItemSpecs": [
+        {
+            "40": "Unisex / S",
+            "41": "Unisex / M",
+            "42": "Unisex / L",
+            "43": "Unisex / XL",
+            "44": "Unisex / XXL",
+            "45": "Unisex / XXXL",
+            "46": "Unisex / XXXXL"
+        }
+    ],
+    "pages": [],
+    "sizes": [
+        {
+            "id": 859,
+            "label": "4\" x 4\"",
+            "settings": {
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 4,
+                "height": 4,
+                "presentationWidth": 4,
+                "presentationHeight": 4,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 854,
+            "label": "14\" x 16\"",
+            "settings": {
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 14,
+                "height": 16,
+                "presentationWidth": 14,
+                "presentationHeight": 16,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        }
+    ],
+    "pockets": [],
+    "shapes": [],
+    "finishes": [],
+    "foldings": [],
+    "coverPapers": []
+}

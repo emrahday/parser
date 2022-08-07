@@ -1,0 +1,160 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 4,
+            "label": "100 lb. Gloss Cover"
+        },
+        {
+            "id": 7,
+            "label": "100 lb. Recycled Matte Cover"
+        },
+        {
+            "id": 1,
+            "label": "14 pt. Gloss"
+        },
+        {
+            "id": 2,
+            "label": "14 pt. Uncoated"
+        },
+        {
+            "id": 10,
+            "label": "16 pt. Premium Matte Cover"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "Full Color Front, No Back"
+        },
+        {
+            "id": 2,
+            "label": "Full Color Front, Grayscale Back"
+        },
+        {
+            "id": 3,
+            "label": "Full Color Both Sides"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [],
+    "sizes": [
+        {
+            "id": 271,
+            "label": "2\" x 5.5\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 2,
+                "height": 5.5,
+                "presentationWidth": 2,
+                "presentationHeight": 5.5,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 292,
+            "label": "3.5\" x 8.5\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 3.5,
+                "height": 8.5,
+                "presentationWidth": 3.5,
+                "presentationHeight": 8.5,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 272,
+            "label": "2\" x 5.5\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 5.5,
+                "height": 2,
+                "presentationWidth": 5.5,
+                "presentationHeight": 2,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        },
+        {
+            "id": 293,
+            "label": "3.5\" x 8.5\" Horizontal",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 8.5,
+                "height": 3.5,
+                "presentationWidth": 8.5,
+                "presentationHeight": 3.5,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        }
+    ],
+    "pockets": [],
+    "shapes": [],
+    "finishes": [],
+    "foldings": [],
+    "coverPapers": []
+}

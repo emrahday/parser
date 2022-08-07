@@ -1,0 +1,237 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 7,
+            "label": "100 lb. Recycled Matte Cover"
+        },
+        {
+            "id": 1,
+            "label": "14 pt. Gloss"
+        },
+        {
+            "id": 2,
+            "label": "14 pt. Uncoated"
+        },
+        {
+            "id": 10,
+            "label": "16 pt. Premium Matte"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "Full Color Front (Outside), No Back (Inside)"
+        },
+        {
+            "id": 2,
+            "label": "Full Color Front (Outside), Grayscale Back (Inside)"
+        },
+        {
+            "id": 3,
+            "label": "Full Color Both Sides (Outside and Inside)"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [],
+    "sizes": [
+        {
+            "id": 466,
+            "label": "4\" x 6\" Small Press Kit",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 8,
+                "height": 6,
+                "presentationWidth": 4,
+                "presentationHeight": 6,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 467,
+            "label": "6\" x 9\" 3\" Pocket",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 12,
+                "height": 9,
+                "presentationWidth": 6,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 468,
+            "label": "6\" x 9\" 4\" Pocket",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 12,
+                "height": 9,
+                "presentationWidth": 6,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 469,
+            "label": "6\" x 9\" Sample Kit",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 18.3024,
+                "height": 10.2557,
+                "presentationWidth": 6,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 470,
+            "label": "9\" x 12\" Standard",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 18,
+                "height": 12,
+                "presentationWidth": 9,
+                "presentationHeight": 12,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 741,
+            "label": "9\" x 11.5\" Sample Kit",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 27.5892,
+                "height": 13.177,
+                "presentationWidth": 9,
+                "presentationHeight": 11.5,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 722,
+            "label": "9\" x 14.5\" 4\" Pocket (Legal)",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": true,
+                "zeroBleed": true
+            },
+            "properties": {
+                "width": 18,
+                "height": 14.5,
+                "presentationWidth": 9,
+                "presentationHeight": 14.5,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        }
+    ],
+    "pockets": [
+        {
+            "id": 3,
+            "label": "Double"
+        },
+        {
+            "id": 1,
+            "label": "Right"
+        }
+    ],
+    "shapes": [],
+    "finishes": [],
+    "foldings": [],
+    "coverPapers": []
+}

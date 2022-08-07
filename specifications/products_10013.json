@@ -1,0 +1,1353 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 40,
+            "label": "3/16\" Polyster Clay Coated with Matte Surface"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "Full Color Front, No Back"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10112,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10113,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10116,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10117,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10120,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10121,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10123,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10124,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10127,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10128,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10129,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10132,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10133,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10136,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10137,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10140,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10141,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10142,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10145,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10146,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10148,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10149,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10150,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10151,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10152,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10154,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10155,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10158,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10159,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10370,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10371,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10494,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10495,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10506,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10507,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10610,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10621,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10622,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10625,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10626,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10629,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10630,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10633,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10634,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10637,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10638,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10640,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        },
+        {
+            "sizeId": 10642,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [],
+    "sizes": {
+        "list": {
+            "size_10619": {
+                "id": null,
+                "label": "6\" x 18\"",
+                "alternativeSizeId": "10620",
+                "width": 18,
+                "height": 6,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10621,
+                        "alternativeSizeId": 10622,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 17.875,
+                    "height": 5.875,
+                    "presentationWidth": 18,
+                    "presentationHeight": 6,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10623": {
+                "id": null,
+                "label": "6\" x 20\"",
+                "alternativeSizeId": "10624",
+                "width": 20,
+                "height": 6,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10625,
+                        "alternativeSizeId": 10626,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 19.875,
+                    "height": 5.875,
+                    "presentationWidth": 20,
+                    "presentationHeight": 6,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10492": {
+                "id": null,
+                "label": "6\" x 24\"",
+                "alternativeSizeId": "10493",
+                "width": 24,
+                "height": 6,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10494,
+                        "alternativeSizeId": 10495,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 23.875,
+                    "height": 5.875,
+                    "presentationWidth": 24,
+                    "presentationHeight": 6,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10627": {
+                "id": null,
+                "label": "6\" x 30\"",
+                "alternativeSizeId": "10628",
+                "width": 30,
+                "height": 6,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10629,
+                        "alternativeSizeId": 10630,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 29.875,
+                    "height": 5.875,
+                    "presentationWidth": 30,
+                    "presentationHeight": 6,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10110": {
+                "id": null,
+                "label": "9\" x 24\"",
+                "alternativeSizeId": "10111",
+                "width": 24,
+                "height": 9,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10112,
+                        "alternativeSizeId": 10113,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 23.875,
+                    "height": 8.875,
+                    "presentationWidth": 24,
+                    "presentationHeight": 9,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10368": {
+                "id": null,
+                "label": "12\" x 18\"",
+                "alternativeSizeId": "10369",
+                "width": 18,
+                "height": 12,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10370,
+                        "alternativeSizeId": 10371,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 17.875,
+                    "height": 11.875,
+                    "presentationWidth": 18,
+                    "presentationHeight": 12,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10114": {
+                "id": null,
+                "label": "12\" x 24\"",
+                "alternativeSizeId": "10115",
+                "width": 24,
+                "height": 12,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10116,
+                        "alternativeSizeId": 10117,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 23.875,
+                    "height": 11.875,
+                    "presentationWidth": 24,
+                    "presentationHeight": 12,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10118": {
+                "id": null,
+                "label": "16\" x 23\"",
+                "alternativeSizeId": "10119",
+                "width": 23,
+                "height": 16,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10120,
+                        "alternativeSizeId": 10121,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    },
+                    {
+                        "id": "2",
+                        "type": null,
+                        "label": "Oval",
+                        "sizeId": 10610,
+                        "alternativeSizeId": null,
+                        "hasOverlay": true,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 22.875,
+                    "height": 15.875,
+                    "presentationWidth": 23,
+                    "presentationHeight": 16,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10122": {
+                "id": null,
+                "label": "18\" x 18\"",
+                "alternativeSizeId": null,
+                "width": 18,
+                "height": 18,
+                "shapeLabel": "Square",
+                "shapeId": 9,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "4",
+                        "type": null,
+                        "label": "Rounded Square",
+                        "sizeId": 10123,
+                        "alternativeSizeId": null,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    },
+                    {
+                        "id": "1",
+                        "type": null,
+                        "label": "Circle",
+                        "sizeId": 10124,
+                        "alternativeSizeId": null,
+                        "hasOverlay": true,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 17.875,
+                    "height": 17.875,
+                    "presentationWidth": 18,
+                    "presentationHeight": 18,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10631": {
+                "id": null,
+                "label": "18\" x 20\"",
+                "alternativeSizeId": "10632",
+                "width": 20,
+                "height": 18,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10633,
+                        "alternativeSizeId": 10634,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 19.875,
+                    "height": 17.875,
+                    "presentationWidth": 20,
+                    "presentationHeight": 18,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10125": {
+                "id": null,
+                "label": "18\" x 24\"",
+                "alternativeSizeId": "10126",
+                "width": 24,
+                "height": 18,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10127,
+                        "alternativeSizeId": 10128,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    },
+                    {
+                        "id": "10",
+                        "type": null,
+                        "label": "Arrow",
+                        "sizeId": 10129,
+                        "alternativeSizeId": null,
+                        "hasOverlay": true,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 23.875,
+                    "height": 17.875,
+                    "presentationWidth": 24,
+                    "presentationHeight": 18,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10635": {
+                "id": null,
+                "label": "18\" x 30\"",
+                "alternativeSizeId": "10636",
+                "width": 30,
+                "height": 18,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10637,
+                        "alternativeSizeId": 10638,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 29.875,
+                    "height": 17.875,
+                    "presentationWidth": 30,
+                    "presentationHeight": 18,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10130": {
+                "id": null,
+                "label": "18\" x 36\"",
+                "alternativeSizeId": "10131",
+                "width": 36,
+                "height": 18,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10132,
+                        "alternativeSizeId": 10133,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 35.875,
+                    "height": 17.875,
+                    "presentationWidth": 36,
+                    "presentationHeight": 18,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10639": {
+                "id": null,
+                "label": "20\" x 20\"",
+                "alternativeSizeId": null,
+                "width": 20,
+                "height": 20,
+                "shapeLabel": "Square",
+                "shapeId": 9,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "4",
+                        "type": null,
+                        "label": "Rounded Square",
+                        "sizeId": 10640,
+                        "alternativeSizeId": null,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 19.875,
+                    "height": 19.875,
+                    "presentationWidth": 20,
+                    "presentationHeight": 20,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10134": {
+                "id": null,
+                "label": "20\" x 30\"",
+                "alternativeSizeId": "10135",
+                "width": 30,
+                "height": 20,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10136,
+                        "alternativeSizeId": 10137,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 29.875,
+                    "height": 19.875,
+                    "presentationWidth": 30,
+                    "presentationHeight": 20,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10138": {
+                "id": null,
+                "label": "22\" x 23\"",
+                "alternativeSizeId": "10139",
+                "width": 23,
+                "height": 22,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10140,
+                        "alternativeSizeId": 10141,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    },
+                    {
+                        "id": "14",
+                        "type": null,
+                        "label": "Star",
+                        "sizeId": 10142,
+                        "alternativeSizeId": null,
+                        "hasOverlay": true,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 22.875,
+                    "height": 21.875,
+                    "presentationWidth": 23,
+                    "presentationHeight": 22,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10143": {
+                "id": null,
+                "label": "22\" x 28\"",
+                "alternativeSizeId": "10144",
+                "width": 28,
+                "height": 22,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10145,
+                        "alternativeSizeId": 10146,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 27.875,
+                    "height": 21.875,
+                    "presentationWidth": 28,
+                    "presentationHeight": 22,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10147": {
+                "id": null,
+                "label": "23\" x 23\"",
+                "alternativeSizeId": null,
+                "width": 23,
+                "height": 23,
+                "shapeLabel": "Square",
+                "shapeId": 9,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "4",
+                        "type": null,
+                        "label": "Rounded Square",
+                        "sizeId": 10148,
+                        "alternativeSizeId": null,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    },
+                    {
+                        "id": "12",
+                        "type": null,
+                        "label": "Apartment",
+                        "sizeId": 10149,
+                        "alternativeSizeId": null,
+                        "hasOverlay": true,
+                        "zeroBleed": null
+                    },
+                    {
+                        "id": "1",
+                        "type": null,
+                        "label": "Circle",
+                        "sizeId": 10150,
+                        "alternativeSizeId": null,
+                        "hasOverlay": true,
+                        "zeroBleed": null
+                    },
+                    {
+                        "id": "11",
+                        "type": null,
+                        "label": "House",
+                        "sizeId": 10151,
+                        "alternativeSizeId": null,
+                        "hasOverlay": true,
+                        "zeroBleed": null
+                    },
+                    {
+                        "id": "13",
+                        "type": null,
+                        "label": "Octagon",
+                        "sizeId": 10152,
+                        "alternativeSizeId": null,
+                        "hasOverlay": true,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 22.875,
+                    "height": 22.875,
+                    "presentationWidth": 23,
+                    "presentationHeight": 23,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10153": {
+                "id": null,
+                "label": "24\" x 24\"",
+                "alternativeSizeId": null,
+                "width": 24,
+                "height": 24,
+                "shapeLabel": "Square",
+                "shapeId": 9,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "4",
+                        "type": null,
+                        "label": "Rounded Square",
+                        "sizeId": 10154,
+                        "alternativeSizeId": null,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    },
+                    {
+                        "id": "1",
+                        "type": null,
+                        "label": "Circle",
+                        "sizeId": 10155,
+                        "alternativeSizeId": null,
+                        "hasOverlay": true,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 23.875,
+                    "height": 23.875,
+                    "presentationWidth": 24,
+                    "presentationHeight": 24,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10504": {
+                "id": null,
+                "label": "24\" x 30\"",
+                "alternativeSizeId": "10505",
+                "width": 30,
+                "height": 24,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10506,
+                        "alternativeSizeId": 10507,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 29.875,
+                    "height": 23.875,
+                    "presentationWidth": 30,
+                    "presentationHeight": 24,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            },
+            "size_10156": {
+                "id": null,
+                "label": "24\" x 36\"",
+                "alternativeSizeId": "10157",
+                "width": 36,
+                "height": 24,
+                "shapeLabel": "Rectangle",
+                "shapeId": 15,
+                "type": null,
+                "color": null,
+                "otherShapes": [
+                    {
+                        "id": "5",
+                        "type": null,
+                        "label": "Rounded Rectangle",
+                        "sizeId": 10158,
+                        "alternativeSizeId": 10159,
+                        "hasOverlay": false,
+                        "zeroBleed": null
+                    }
+                ],
+                "settings": {
+                    "sizeId": null,
+                    "iopSupported": true,
+                    "odSupported": true,
+                    "mediaClipSupported": false,
+                    "hasOverlay": false,
+                    "zeroBleed": false
+                },
+                "properties": {
+                    "width": 35.875,
+                    "height": 23.875,
+                    "presentationWidth": 36,
+                    "presentationHeight": 24,
+                    "unit": "in",
+                    "dpi": 150
+                }
+            }
+        },
+        "orientation": true,
+        "type": "select",
+        "label": "Size"
+    },
+    "pockets": [],
+    "shapes": [
+        {
+            "id": 12,
+            "label": "Apartment"
+        },
+        {
+            "id": 10,
+            "label": "Arrow"
+        },
+        {
+            "id": 1,
+            "label": "Circle"
+        },
+        {
+            "id": 11,
+            "label": "House"
+        },
+        {
+            "id": 13,
+            "label": "Octagon"
+        },
+        {
+            "id": 2,
+            "label": "Oval"
+        },
+        {
+            "id": 15,
+            "label": "Rectangle"
+        },
+        {
+            "id": 5,
+            "label": "Rounded Rectangle"
+        },
+        {
+            "id": 4,
+            "label": "Rounded Square"
+        },
+        {
+            "id": 9,
+            "label": "Square"
+        },
+        {
+            "id": 14,
+            "label": "Star"
+        }
+    ],
+    "finishes": [],
+    "foldings": [],
+    "coverPapers": []
+}

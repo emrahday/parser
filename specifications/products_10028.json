@@ -1,0 +1,52 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 70,
+            "label": "50 Cotton/ 50 Polyester, 6.5 Ounce"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "Full Color Front, No Back"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [],
+    "sizes": {
+        "id": null,
+        "type": "select",
+        "label": "Size",
+        "list": [
+            "size_10614:4\" x 4\"&settings_iopSupported:true&settings_odSupported:true&settings_mediaClipSupported:false&settings_hasOverlay:false&settings_zeroBleed:true&properties_width:4.0&properties_height:4.0&properties_presentationWidth:4.0&properties_presentationHeight:4.0&properties_unit:in&properties_dpi:150.0"
+        ],
+        "orientation": false
+    },
+    "pockets": [],
+    "shapes": [
+        {
+            "id": 9,
+            "label": "Square"
+        }
+    ],
+    "finishes": [],
+    "foldings": [],
+    "coverPapers": []
+}

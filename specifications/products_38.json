@@ -1,0 +1,636 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 3,
+            "label": "100 lb. Gloss Book"
+        },
+        {
+            "id": 4,
+            "label": "100 lb. Gloss Cover"
+        },
+        {
+            "id": 7,
+            "label": "100 lb. Recycled Matte Cover"
+        },
+        {
+            "id": 8,
+            "label": "70 lb. Opaque Smooth White"
+        },
+        {
+            "id": 6,
+            "label": "80 lb. Recycled Matte Text"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "Full Color Front, No Back"
+        },
+        {
+            "id": 3,
+            "label": "Full Color Both Sides"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": false,
+            "odSupported": false,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [],
+    "sizes": [
+        {
+            "id": 771,
+            "label": "3 Pages, .25\" Staggered 6\" x 9\" to 6\" x 8.5\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 6,
+                "height": 9,
+                "presentationWidth": 6,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 772,
+            "label": "3 Pages, .5\" Staggered 6\" x 9\" to 6\" x 8\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 6,
+                "height": 9,
+                "presentationWidth": 6,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 773,
+            "label": "4 Pages, .25\" Staggered 6\" x 9\" to 6\" x 8.25\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 6,
+                "height": 9,
+                "presentationWidth": 6,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 774,
+            "label": "4 Pages, .5\" Staggered 6\" x 9\" to 6\" x 7.5\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 6,
+                "height": 9,
+                "presentationWidth": 6,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 775,
+            "label": "5 Pages, .25\" Staggered 6\" x 9\" to 6\" x 8\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 6,
+                "height": 9,
+                "presentationWidth": 6,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 776,
+            "label": "5 Pages, .5\" Staggered 6\" x 9\" to 6\" x 7\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 6,
+                "height": 9,
+                "presentationWidth": 6,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 777,
+            "label": "6 Pages, .25\" Staggered 6\" x 9\" to 6\" x 7.75\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 6,
+                "height": 9,
+                "presentationWidth": 6,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 778,
+            "label": "6 Pages, .5\" Staggered 6\" x 9\" to 6\" x 6.5\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 6,
+                "height": 9,
+                "presentationWidth": 6,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 779,
+            "label": "7 Pages, .25\" Staggered 6\" x 9\" to 6\" x 7.5\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 6,
+                "height": 9,
+                "presentationWidth": 6,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 780,
+            "label": "7 Pages, .5\" Staggered 6\" x 9\" to 6\" x 6\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 6,
+                "height": 9,
+                "presentationWidth": 6,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 781,
+            "label": "8 Pages, .25\" Staggered 6\" x 9\" to 6\" x 7.25\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 6,
+                "height": 9,
+                "presentationWidth": 6,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 782,
+            "label": "8 Pages, .5\" Staggered 6\" x 9\" to 6\" x 5.5\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 6,
+                "height": 9,
+                "presentationWidth": 6,
+                "presentationHeight": 9,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 404,
+            "label": "3 Pages, .25\" Staggered, 8.5\" x 11\" to 8.5\" x 10.5\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 8.5,
+                "height": 11,
+                "presentationWidth": 8.5,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 405,
+            "label": "3 Pages, .5\" Staggered, 8.5\" x 11\" to 8.5\" x 10\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 8.5,
+                "height": 11,
+                "presentationWidth": 8.5,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 406,
+            "label": "4 Pages, .25\" Staggered, 8.5\" x 11\" to 8.5\" x 10.25\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 8.5,
+                "height": 11,
+                "presentationWidth": 8.5,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 407,
+            "label": "4 Pages, .5\" Staggered, 8.5\" x 11\" to 8.5\" x 9.5\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 8.5,
+                "height": 11,
+                "presentationWidth": 8.5,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 408,
+            "label": "5 Pages, .25\" Staggered, 8.5\" x 11\" to 8.5\" x 10\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 8.5,
+                "height": 11,
+                "presentationWidth": 8.5,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 409,
+            "label": "5 Pages, .5\" Staggered, 8.5\" x 11\" to 8.5\" x 9\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 8.5,
+                "height": 11,
+                "presentationWidth": 8.5,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 410,
+            "label": "6 Pages, .25\" Staggered, 8.5\" x 11\" to 8.5\" x 9.75\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 8.5,
+                "height": 11,
+                "presentationWidth": 8.5,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 411,
+            "label": "6 Pages, .5\" Staggered, 8.5\" x 11\" to 8.5\" x 8.5\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 8.5,
+                "height": 11,
+                "presentationWidth": 8.5,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 412,
+            "label": "7 Pages, .25\" Staggered, 8.5\" x 11\" to 8.5\" x 9.5\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 8.5,
+                "height": 11,
+                "presentationWidth": 8.5,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 413,
+            "label": "7 Pages, .5\" Staggered, 8.5\" x 11\" to 8.5\" x 8\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 8.5,
+                "height": 11,
+                "presentationWidth": 8.5,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 414,
+            "label": "8 Pages, .25\" Staggered, 8.5\" x 11\" to 8.5\" x 9.25\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 8.5,
+                "height": 11,
+                "presentationWidth": 8.5,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 415,
+            "label": "8 Pages, .5\" Staggered, 8.5\" x 11\" to 8.5\" x 7.5\"",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": false,
+                "odSupported": false,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 8.5,
+                "height": 11,
+                "presentationWidth": 8.5,
+                "presentationHeight": 11,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        }
+    ],
+    "pockets": [],
+    "shapes": [],
+    "finishes": [],
+    "foldings": [],
+    "coverPapers": []
+}

@@ -1,0 +1,47 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 30,
+            "label": "Other"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "Full Color Front, No Back"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 10380,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [],
+    "sizes": {
+        "id": null,
+        "type": "select",
+        "label": "Size",
+        "list": [
+            "size_10380:14\" x 16\"&settings_iopSupported:true&settings_odSupported:true&settings_mediaClipSupported:false&settings_hasOverlay:false&settings_zeroBleed:true&properties_width:14.0&properties_height:16.0&properties_presentationWidth:14.0&properties_presentationHeight:16.0&properties_unit:in&properties_dpi:350.0"
+        ],
+        "orientation": false
+    },
+    "pockets": [],
+    "shapes": [],
+    "finishes": [],
+    "foldings": [],
+    "coverPapers": []
+}

@@ -1,0 +1,139 @@
+{
+    "panels": [],
+    "trays": [],
+    "papers": [
+        {
+            "id": 4,
+            "label": "100 lb. Gloss Cover"
+        },
+        {
+            "id": 7,
+            "label": "100 lb. Recycled Matte Cover"
+        },
+        {
+            "id": 74,
+            "label": "13 pt. Premium Linen"
+        },
+        {
+            "id": 1,
+            "label": "14 pt. Gloss"
+        },
+        {
+            "id": 2,
+            "label": "14 pt. Uncoated"
+        },
+        {
+            "id": 10,
+            "label": "16 pt. Premium Matte"
+        },
+        {
+            "id": 76,
+            "label": "18 pt. Premium Kraft"
+        },
+        {
+            "id": 75,
+            "label": "18 pt. Ultra Premium Pearl"
+        },
+        {
+            "id": 77,
+            "label": "18 pt. Ultra Premium Smooth White"
+        }
+    ],
+    "turnarounds": [
+        {
+            "id": 1,
+            "label": "Regular"
+        }
+    ],
+    "colors": [
+        {
+            "id": 1,
+            "label": "Full Color Front (Outside), No Back (Inside)"
+        },
+        {
+            "id": 2,
+            "label": "Full Color Front (Outside), Grayscale Back (Inside)"
+        },
+        {
+            "id": 3,
+            "label": "Full Color Both Sides (Outside and Inside)"
+        }
+    ],
+    "productSettings": [
+        {
+            "sizeId": 0,
+            "iopSupported": true,
+            "odSupported": true,
+            "mediaClipSupported": false,
+            "hasOverlay": null,
+            "zeroBleed": null
+        }
+    ],
+    "pages": [],
+    "sizes": [
+        {
+            "id": 289,
+            "label": "3.25\" x 4\" Pre-Scored to Fold to 2\" x 3.25\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 4,
+                "height": 3.25,
+                "presentationWidth": 4,
+                "presentationHeight": 3.25,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 2,
+                "label": "Portrait"
+            }
+        },
+        {
+            "id": 291,
+            "label": "4\" x 4\" Pre-Scored to Fold to 2\" x 4\" Vertical",
+            "settings": {
+                "sizeId": null,
+                "iopSupported": true,
+                "odSupported": true,
+                "mediaClipSupported": false,
+                "hasOverlay": false,
+                "zeroBleed": false
+            },
+            "properties": {
+                "width": 4,
+                "height": 4,
+                "presentationWidth": 4,
+                "presentationHeight": 4,
+                "unit": "in",
+                "dpi": 350
+            },
+            "orientation": {
+                "id": 1,
+                "label": "Landscape"
+            }
+        }
+    ],
+    "pockets": [],
+    "shapes": [],
+    "finishes": [],
+    "foldings": [
+        {
+            "id": 1,
+            "label": "Half Fold",
+            "sizeId": 289
+        },
+        {
+            "id": 1,
+            "label": "Half Fold",
+            "sizeId": 291
+        }
+    ],
+    "coverPapers": []
+}
